@@ -1,5 +1,5 @@
 /* prebid.js v9.53.1
-Updated: 2025-07-15
+Updated: 2025-07-16
 Modules: allowActivities, schain, gptPreAuction, tcfControl, rubiconBidAdapter, adfBidAdapter, ixBidAdapter, smartadserverBidAdapter, pubmaticBidAdapter, appnexusBidAdapter */
 if(window.pbjs&&window.pbjs.libLoaded)try{window.pbjs.getConfig("debug")&&console.warn("Attempted to load a copy of Prebid.js that clashes with the existing 'pbjs' instance. Load aborted.")}catch(e){}else (function(){
 (()=>{var t,r={70433:(t,r,e)=>{function n(t,r,e,n,o){for(r=r.split?r.split("."):r,n=0;n<r.length;n++)t=t?t[r[n]]:o;return t===o?e:t}e.d(r,{A:()=>n})},68128:t=>{
