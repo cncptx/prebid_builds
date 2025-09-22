@@ -1,5 +1,5 @@
 /* prebid.js v10.10.0
-Updated: 2025-09-18
+Updated: 2025-09-22
 Modules: userId, allowActivities, currency, priceFloors, gptPreAuction, adfBidAdapter, sharedIdSystem, unifiedIdSystem, id5IdSystem */
 if(window.pbjs&&window.pbjs.libLoaded)try{window.pbjs.getConfig("debug")&&console.warn("Attempted to load a copy of Prebid.js that clashes with the existing 'pbjs' instance. Load aborted.")}catch(e){}else (function(){
 (()=>{var t,r={58928:(t,r,e)=>{function n(t,r,e,n,o){for(r=r.split?r.split("."):r,n=0;n<r.length;n++)t=t?t[r[n]]:o;return t===o?e:t}e.d(r,{A:()=>n})},35481:t=>{
