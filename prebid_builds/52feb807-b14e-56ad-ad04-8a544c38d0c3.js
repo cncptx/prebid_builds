@@ -1,5 +1,5 @@
 /* prebid.js v10.12.0
-Updated: 2025-10-13
+Updated: 2025-10-14
 Modules: allowActivities, gptPreAuction, consentManagementTcf, tcfControl, gamAdServerVideo, videoModule, rubiconBidAdapter, adfBidAdapter, ixBidAdapter, smartadserverBidAdapter, pubmaticBidAdapter, appnexusBidAdapter */
 if(window.pbjs&&window.pbjs.libLoaded)try{window.pbjs.getConfig("debug")&&console.warn("Attempted to load a copy of Prebid.js that clashes with the existing 'pbjs' instance. Load aborted.")}catch(e){}else (function(){
 (()=>{var t,r={23715:(t,r,e)=>{e.d(r,{A:()=>n});const n={pbGlobal:"pbjs",defineGlobal:!0,features:{NATIVE:!0,VIDEO:!0,UID2_CSTG:!0,GREEDY:!1,AUDIO:!0,LOG_NON_ERROR:!0,LOG_ERROR:!0},distUrlBase:"https://cdn.jsdelivr.net/npm/prebid.js@10.12.0/dist/chunks/",skipCalls:{}}},35481:t=>{
